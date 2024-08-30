@@ -7,4 +7,4 @@ Save yourself some time and get to work.
 ## Todo
 
 - [ ] Add instructions for copying this
-- [ ] Actually use template repo
+- [ ] Add GHA workflows
